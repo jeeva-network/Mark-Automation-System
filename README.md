@@ -39,7 +39,7 @@ This project has been developed using PYTHON 3, TKINTER, and the current version
 
 ## Documentation
 
-[Download]("D:\Downloads\Documentation ( Mark Automation System ).pdf")
+[Download](https://github.com/jeeva-233/Mark-Automation-System/blob/main/Documentation%20(%20Mark%20Automation%20System%20).pdf)
 
 ## 🚀 About Me
 
