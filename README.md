@@ -39,7 +39,7 @@ This project has been developed using PYTHON 3, TKINTER, and the current version
 
 ## Documentation
 
-[Learn more...](https://linktodocumentation)
+[Download]("D:\Downloads\Documentation ( Mark Automation System ).pdf")
 
 ## 🚀 About Me
 
