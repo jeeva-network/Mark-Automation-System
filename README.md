@@ -3,6 +3,7 @@
 ## Need to download 
 
  - [Download-Python](https://www.python.org/downloads/)
+ - [Download-Microsoft SQL and SSMS](https://www.microsoft.com/en-in/sql-server/sql-server-downloads)
 
  ## Type into the cmd
 
