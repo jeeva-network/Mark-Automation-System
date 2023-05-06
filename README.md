@@ -1,7 +1,5 @@
 # Mark Automation System
-
-The main source code is confidential, so I won't publish it, but you can use my test source code and source files. 
-
+ 
 ## Need to download 
 
  - [Download-Python](https://www.python.org/downloads/)
