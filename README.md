@@ -43,4 +43,4 @@ This project has been developed using PYTHON 3, TKINTER, and the current version
 
 ## 🚀 About Me
 
-I am a passionate learner of Python and Web Development. I have honed my skills through various online courses and personal projects. I am well-versed in Python programming concepts and have a strong understanding of front-end technologies such as HTML, and CSS. I am confident in my ability to create responsive and visually appealing web pages using these technologies. My goal is to continue to grow and develop my skills in the tech industry and contribute to the development of innovative solutions.
+I am a passionate learner of Python and Web Development. I have honed my skills through various online courses and personal projects. I am well-versed in Python programming concepts and have a strong understanding of MERN stack Web Development. I am confident in my ability to create responsive and visually appealing web pages using these technologies. My goal is to continue to grow and develop my skills in the tech industry and contribute to the development of innovative solutions.
