@@ -35,7 +35,7 @@ With the help of the search field to find a student's information in the databas
 
 The total mark statements including the CIA and EOS marks are taken to the validation process based on the schema for each course.
 
-This project has been developed using PYTHON 3, TKINTER, and the current version of the Microsoft SQL database.
+This project has been developed using PYTHON 3, TKINTER, and the current version of the SQLite database.
 
 ## Documentation
 
