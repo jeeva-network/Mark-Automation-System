@@ -25,7 +25,7 @@ This project is entitled "MARK AUTOMATION SYSTEM" and has been developed for pro
 
 This project maintains all the details of the students including the syllabus with subject code. All the details have been entered into the database to validate the student's marks with credit points from the syllabus and then generate the mark sheet for the semester. The admin can control all student's details and also update the syllabus every year from admission to the end of graduation.
 
-It has been developed using PYTHON 3, TKINTER, and the current version of the Microsoft SQL database.
+It has been developed using PYTHON 3, TKINTER, and the current version of the SQLite database.
 
 ## About the Project
 
